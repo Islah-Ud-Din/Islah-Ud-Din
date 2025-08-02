@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Islah Uddin</h1>
+<h1 align="center">Hi, I'm Muhammad Islahuddin</h1>
 
 <p align="center">
   <strong>Full-Stack Developer</strong> | Founder of <strong>ShobiSoft</strong> <br/>

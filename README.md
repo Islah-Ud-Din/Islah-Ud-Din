@@ -18,10 +18,7 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,react,postgres,prisma,aws,docker,figma,tailwind,ts,js,html,css,git,vscode,github&perline=10" alt="tech stack"/>
-</p>
-
+<div align="center">
 
 | Frontend     | Backend             | Database         | DevOps & Tools       |
 |--------------|---------------------|------------------|----------------------|
@@ -29,6 +26,12 @@
 | React.js     | Express.js          | MongoDB          | Docker               |
 | TailwindCSS  | PHP / Laravel       | Prisma ORM       | Git & GitHub         |
 | SCSS / CSS   | REST APIs / GraphQL | MySQL (basic)    | VS Code              |
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=nextjs,nodejs,react,express,php,laravel,postgres,prisma,mongodb,aws,docker,scss,tailwind,ts,js,html,css,git,vscode,github&perline=10" alt="tech stack"/>
+
+</div>
 
 ---
 

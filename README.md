@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Islah Uddin</h1>
+<h1 align="center">Hi, I'm Islahuddin</h1>
 
 <p align="center">
   Full-Stack Developer | Founder of <strong>ShobiSoft</strong> | Building Scalable Web Apps & SaaS Solutions
@@ -6,9 +6,9 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🚀 I'm a Full-Stack Developer specializing in **Next.js, Node.js, Express.js, PostgreSQL, and AWS**
+- 🚀 I'm a Full-Stack Developer specializing in Next.js, React.js, Node.js, Express.js, PostgreSQL, and AWS, with expertise in building responsive UIs using modern frontend libraries and frameworks.
 - 🎯 Founder of **ShobiSoft**, focused on delivering high-quality software solutions for businesses
 - 💻 I build responsive, SEO-optimized web apps, admin panels, SaaS platforms, and custom dashboards
 - 📈 Currently exploring advanced SaaS architectures, cloud infrastructure, and performance optimization
@@ -17,6 +17,11 @@
 ---
 
 ## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,react,postgres,prisma,aws,docker,figma,tailwind,ts,js,html,css,git,vscode,github&perline=10" alt="tech stack"/>
+</p>
+
 
 | Frontend     | Backend             | Database         | DevOps & Tools       |
 |--------------|---------------------|------------------|----------------------|
@@ -41,10 +46,13 @@
 
 ## 📫 Contact
 
-- 📧 Email: [islahuddindev@gmail.com](mailto:islahuddindev@gmail.com)
-- 🌐 LinkedIn: [linkedin.com/in/islahuddindev](https://www.linkedin.com/in/islahuddindev/)
-- 💼 Fiverr: [fiverr.com/s/qDrp5rg](https://www.fiverr.com/s/qDrp5rg)
-- 💻 Portfolio: Coming Soon...
+<p align="center">
+  <a href="https://www.linkedin.com/in/islahuddindev/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://twitter.com/islahuddindev" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+  <a href="mailto:islahuddindev@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="https://www.fiverr.com/s/qDrp5rg" target="_blank"><img src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="fiverr" height="40"/></a>
+</p>
+
 
 ---
 
@@ -55,5 +63,6 @@
 ---
 
 <p align="center">
-  Built with ❤️ by <strong>Islah Uddin</strong> | Last Updated: August 2025
+  🚀 Proudly crafted by <a href="https://github.com/Islah-Ud-Din">Islah Uddin</a> | ShobiSoft <br>
+  🕒 Last Updated: August 2025
 </p>

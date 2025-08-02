@@ -29,7 +29,23 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=nextjs,nodejs,react,express,php,laravel,postgres,prisma,mongodb,aws,docker,scss,tailwind,ts,js,html,css,git,vscode,github&perline=10" alt="tech stack"/>
+## 🛠️ Tech Stack
+
+<div align="center">
+
+| Frontend        | Backend             | Database         | DevOps & Tools       |
+|-----------------|---------------------|------------------|----------------------|
+| Next.js         | Node.js             | PostgreSQL       | AWS (Console, EC2)   |
+| React.js        | Express.js          | MongoDB          | Docker               |
+| Tailwind CSS    | PHP / Laravel       | Prisma ORM       | Git & GitHub         |
+| Bootstrap / SCSS| REST APIs / GraphQL | MySQL (basic)    | VS Code              |
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,php,laravel,postgres,prisma,mongodb,aws,docker,bootstrap,scss,tailwind,ts,js,html,css,git,vscode,github&perline=10" alt="tech stack"/>
+
+</div>
+
 
 </div>
 

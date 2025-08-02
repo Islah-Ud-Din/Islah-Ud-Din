@@ -42,6 +42,4 @@ My passion for web development is reflected in my ability to design and develop 
   <a href="https://www.linkedin.com/in/muhammad-islahuddin-391a931ba/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="https://x.com/Islahuddin0812" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
   <a href="mailto:islahuddindev@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-  <a href="https://www.fiverr.com/s/qDrp5rg" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Fiverr_Logo_2020.svg" alt="Fiverr" height="40"/></a>
-  <a href="https://upwork.com/freelancers/~012359da3244f4960e" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Upwork-logo.svg" alt="Upwork" height="40"/></a>
 </p>

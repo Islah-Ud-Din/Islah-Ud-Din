@@ -1,13 +1,13 @@
-<h1 align="center">Hi, I'm Islah Uddin</h1>
+<h1 align="start">Hi, I'm Islah Uddin</h1>
 
-<p align="center">
+<p align="start">
   <strong>Full-Stack Developer</strong> | Founder of <strong>ShobiSoft</strong> <br/>
   Building Scalable Web Apps, Admin Panels & SaaS Solutions
 </p>
 
 ---
 
-## 💻 About Me
+##  About Me
 <p >
   As a skilled full stack developer, I pride myself on my ability to create fully responsive websites that incorporate a diverse range of cutting-edge technologies. Whether building products for desktop or mobile app users, I always strive to exceed the highest standards for web design, user experience, best practices, and site speed.
   
@@ -39,26 +39,9 @@ My passion for web development is reflected in my ability to design and develop 
 ## 🌐 Let's Connect
 
 <p align="center">
-  Like my work or want to collaborate? Let’s connect!
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/muhammad-islahuddin-391a931ba/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="https://x.com/Islahuddin0812" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
   <a href="mailto:islahuddindev@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
   <a href="https://www.fiverr.com/s/qDrp5rg" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Fiverr_Logo_2020.svg" alt="Fiverr" height="40"/></a>
   <a href="https://upwork.com/freelancers/~012359da3244f4960e" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Upwork-logo.svg" alt="Upwork" height="40"/></a>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Islah-Ud-Din&theme=github_dark&show_icons=true&count_private=true" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Islah-Ud-Din&theme=github-dark-blue&hide_border=false" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Islah-Ud-Din&layout=compact&theme=github_dark&langs_count=8" alt="Top Languages" />
-</p>
-

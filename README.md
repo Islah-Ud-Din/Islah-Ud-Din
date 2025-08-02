@@ -33,13 +33,3 @@ My passion for web development is reflected in my ability to design and develop 
 <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,bootstrap,tailwind,react,nextjs,nodejs,express,php,laravel,postgres,mongodb,prisma,git,github,vscode,docker,aws&perline=10" alt="tech stack"/>
 
 </div>
-
----
-
-## 🌐 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-islahuddin-391a931ba/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://x.com/Islahuddin0812" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-  <a href="mailto:islahuddindev@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-</p>

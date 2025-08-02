@@ -48,18 +48,3 @@
   <a href="https://twitter.com/islahuddindev" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
   <a href="mailto:islahuddindev@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 </p>
-
-
-## 📈 GitHub Profile Views
-
-<p align="center">
-  Thank you for visiting my GitHub profile! <br/>
-  <img src="https://visitcount.itsvg.in/api?id=Islah-Ud-Din&icon=0&color=1" alt="Profile Views"/>
-</p>
-
----
-
-<p align="center">
-  🚀 Developed and maintained by <strong><a href="https://github.com/Islah-Ud-Din">Islah Uddin</a></strong> | Founder of <strong>ShobiSoft</strong> <br/>
-  🗓️ Last updated: August 2025
-</p>

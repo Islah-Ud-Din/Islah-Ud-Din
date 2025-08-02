@@ -1,7 +1,7 @@
 <!-- Animated divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
 
-<h1 align="center">Hi 👋, I'm Islah Uddin (Asla)</h1>
+<h1 align="center">Hi 👋, I'm Islahuddin </h1>
 
 <p align="center">
   A passionate Full-Stack Developer from Pakistan 🇵🇰 <br>

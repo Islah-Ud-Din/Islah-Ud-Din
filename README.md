@@ -1,6 +1,6 @@
-<h1 align="start">Hi, I'm Islah Uddin</h1>
+<h1 align="center">Hi, I'm Islah Uddin</h1>
 
-<p align="start">
+<p align="center">
   <strong>Full-Stack Developer</strong> | Founder of <strong>ShobiSoft</strong> <br/>
   Building Scalable Web Apps, Admin Panels & SaaS Solutions
 </p>

@@ -50,6 +50,11 @@
 ## 📫 Contact
 
 <p align="center">
+  I'm always open to discussing new projects, collaborations, or opportunities. <br/>
+  Whether you have a question, a project idea, or just want to connect — feel free to reach out!
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/islahuddindev/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="https://twitter.com/islahuddindev" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
   <a href="mailto:islahuddindev@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
@@ -57,15 +62,16 @@
 </p>
 
 
----
+## 📈 GitHub Profile Views
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Islah-Ud-Din&icon=0&color=1" alt="profile views"/>
+  Thank you for visiting my GitHub profile! <br/>
+  <img src="https://visitcount.itsvg.in/api?id=Islah-Ud-Din&icon=0&color=1" alt="Profile Views"/>
 </p>
 
 ---
 
 <p align="center">
-  🚀 Proudly crafted by <a href="https://github.com/Islah-Ud-Din">Islah Uddin</a> | ShobiSoft <br>
-  🕒 Last Updated: August 2025
+  🚀 Developed and maintained by <strong><a href="https://github.com/Islah-Ud-Din">Islah Uddin</a></strong> | Founder of <strong>ShobiSoft</strong> <br/>
+  🗓️ Last updated: August 2025
 </p>

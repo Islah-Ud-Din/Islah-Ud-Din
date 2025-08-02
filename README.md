@@ -20,19 +20,6 @@
 
 <div align="center">
 
-| Frontend     | Backend             | Database         | DevOps & Tools       |
-|--------------|---------------------|------------------|----------------------|
-| Next.js      | Node.js             | PostgreSQL       | AWS (Console, EC2)   |
-| React.js     | Express.js          | MongoDB          | Docker               |
-| TailwindCSS  | PHP / Laravel       | Prisma ORM       | Git & GitHub         |
-| SCSS / CSS   | REST APIs / GraphQL | MySQL (basic)    | VS Code              |
-
-<br/>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
 | Frontend        | Backend             | Database         | DevOps & Tools       |
 |-----------------|---------------------|------------------|----------------------|
 | Next.js         | Node.js             | PostgreSQL       | AWS (Console, EC2)   |
@@ -42,10 +29,9 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,php,laravel,postgres,prisma,mongodb,aws,docker,bootstrap,scss,tailwind,ts,js,html,css,git,vscode,github&perline=10" alt="tech stack"/>
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,bootstrap,tailwind,react,nextjs,nodejs,express,php,laravel,postgres,mongodb,prisma,git,github,vscode,docker,aws&perline=10" alt="tech stack"/>
 
 </div>
-
 
 </div>
 

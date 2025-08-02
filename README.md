@@ -8,12 +8,12 @@
 ---
 
 ## 💻 About Me
+<p align="center">
+  As a skilled full stack developer, I pride myself on my ability to create fully responsive websites that incorporate a diverse range of cutting-edge technologies. Whether building products for desktop or mobile app users, I always strive to exceed the highest standards for web design, user experience, best practices, and site speed.
+  
+My passion for web development is reflected in my ability to design and develop web applications that seamlessly integrate multiple APIs, third-party integrations, and databases. I approach every project as a collaborative team player, leveraging my excellent technical abilities to achieve the best possible results.
 
-- 🚀 Full-Stack Developer specializing in **Next.js, React.js, Node.js, Express.js, PostgreSQL, and AWS**
-- 🎯 Founder of **ShobiSoft**, delivering high-quality software solutions for modern businesses
-- 💼 I build responsive, SEO-optimized **web apps, admin panels, dashboards, and SaaS platforms**
-- ☁️ Passionate about **cloud infrastructure (AWS)**, system design, and clean, maintainable code
-- 📈 Currently exploring **scalable SaaS architectures** and performance optimization strategies
+</p>
 
 ---
 
@@ -62,18 +62,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Islah-Ud-Din&layout=compact&theme=github_dark&langs_count=8" alt="Top Languages" />
 </p>
 
----
-
-## 📈 Profile Views
-
-<p align="center">
-  Thanks for visiting my GitHub profile! <br/>
-  <img src="https://visitcount.itsvg.in/api?id=Islah-Ud-Din&icon=0&color=1" alt="Profile Views"/>
-</p>
-
----
-
-<p align="center">
-  🚀 Developed and maintained by <strong><a href="https://github.com/Islah-Ud-Din">Islah Uddin</a></strong> | Founder of <strong>ShobiSoft</strong> <br/>
-  🗓️ Last updated: August 2025
-</p>

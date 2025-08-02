@@ -35,19 +35,6 @@
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Islah-Ud-Din&theme=github_dark&show_icons=true&count_private=true" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Islah-Ud-Din&theme=github-dark-blue&hide_border=false" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Islah-Ud-Din&layout=compact&theme=github_dark&langs_count=8" alt="Top Languages" />
-</p>
-
----
 
 ## 📫 Contact
 

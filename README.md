@@ -1,73 +1,59 @@
-<!-- Animated divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
-
-<h1 align="center">Hi 👋, I'm Islahuddin </h1>
+<h1 align="center">Hi, I'm Islah Uddin</h1>
 
 <p align="center">
-  A passionate Full-Stack Developer from Pakistan 🇵🇰 <br>
-  Founder of <strong>ShobiSoft</strong> | Building scalable web solutions & SaaS products 🚀
-</p>
-
-<!-- Snake animation -->
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake animation"/>
-</div>
-
----
-
-### 🚀 About Me
-- 🔭 I’m currently working on **Next.js, Node.js, PostgreSQL, Prisma, and AWS**
-- 🌱 Currently learning **advanced SaaS architecture** and cloud deployment with **AWS + Vercel**
-- 💬 Ask me about **React, Next.js, Node.js, Prisma, PostgreSQL, REST APIs, and animations (GSAP, Locomotive)**
-- 🧠 Obsessed with clean code, performance optimization, and seamless user experience
-- ⚡ Fun fact: I love photography 📸 and dream of visiting **K2 Base Camp** 🏔️
-
----
-
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,php,laravel,postgres,prisma,mongodb,aws,docker,scss,tailwind,js,ts,html,css,git,vscode,github&perline=10" alt="tech stack"/>
-</p>
-
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Islah-Ud-Din&theme=radical&show_icons=true&count_private=true" alt="GitHub Stats"/>
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Islah-Ud-Din&theme=radical&hide_border=false" alt="GitHub Streak"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Islah-Ud-Din&layout=compact&theme=radical&langs_count=10" alt="Top Languages"/>
+  Full-Stack Developer | Founder of <strong>ShobiSoft</strong> | Building Scalable Web Apps & SaaS Solutions
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+## 👨‍💻 About Me
+
+- 🚀 I'm a Full-Stack Developer specializing in **Next.js, Node.js, Express.js, PostgreSQL, and AWS**
+- 🎯 Founder of **ShobiSoft**, focused on delivering high-quality software solutions for businesses
+- 💻 I build responsive, SEO-optimized web apps, admin panels, SaaS platforms, and custom dashboards
+- 📈 Currently exploring advanced SaaS architectures, cloud infrastructure, and performance optimization
+- ⚙️ Passionate about clean code, system design, and solving real-world business problems through technology
+
+---
+
+## 🛠️ Tech Stack
+
+| Frontend     | Backend             | Database         | DevOps & Tools       |
+|--------------|---------------------|------------------|----------------------|
+| Next.js      | Node.js             | PostgreSQL       | AWS (Console, EC2)   |
+| React.js     | Express.js          | MongoDB          | Docker               |
+| TailwindCSS  | PHP / Laravel       | Prisma ORM       | Git & GitHub         |
+| SCSS / CSS   | REST APIs / GraphQL | MySQL (basic)    | VS Code              |
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Islah-Ud-Din&theme=algolia&no-bg=true&margin-w=10&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Islah-Ud-Din&theme=github_dark&show_icons=true&count_private=true" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Islah-Ud-Din&theme=github-dark-blue&hide_border=false" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Islah-Ud-Din&layout=compact&theme=github_dark&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
 
-### 📫 Connect With Me
+## 📫 Contact
+
+- 📧 Email: [islahuddindev@gmail.com](mailto:islahuddindev@gmail.com)
+- 🌐 LinkedIn: [linkedin.com/in/islahuddindev](https://www.linkedin.com/in/islahuddindev/)
+- 💼 Fiverr: [fiverr.com/s/qDrp5rg](https://www.fiverr.com/s/qDrp5rg)
+- 💻 Portfolio: Coming Soon...
+
+---
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/islahuddindev/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://twitter.com/islahuddindev" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-  <a href="mailto:islahuddindev@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-  <a href="https://www.fiverr.com/s/qDrp5rg" target="_blank"><img src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="fiverr" height="40"/></a>
+  <img src="https://visitcount.itsvg.in/api?id=Islah-Ud-Din&icon=0&color=1" alt="profile views"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Islah-Ud-Din&icon=3&color=6" alt="profile views"/>
-</p>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
-
-<p align="center">
-  🚀 Proudly crafted by <a href="https://github.com/Islah-Ud-Din">Islah Uddin</a> | ShobiSoft <br>
-  🕒 Last Updated: August 2025
+  Built with ❤️ by <strong>Islah Uddin</strong> | Last Updated: August 2025
 </p>

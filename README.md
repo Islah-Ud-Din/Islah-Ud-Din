@@ -26,10 +26,9 @@ My passion for web development is reflected in my ability to design and develop 
 | Next.js         | Node.js             | PostgreSQL       | AWS (Console, EC2)   |
 | React.js        | Express.js          | MongoDB          | Docker               |
 | Tailwind CSS    | PHP / Laravel       | Prisma ORM       | Git & GitHub         |
-| Bootstrap / SCSS| REST APIs / GraphQL | MySQL (basic)    | VS Code              |
+| Bootstrap / SCSS| REST APIs / GraphQL | MySQL (basic),    | VS Code              |
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,bootstrap,tailwind,react,nextjs,nodejs,express,php,laravel,postgres,mongodb,prisma,git,github,vscode,docker,aws&perline=10" alt="tech stack"/>
-
+<img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,bootstrap,tailwind,react,angular,nextjs,nodejs,express,php,laravel,postgres,mongodb,supabase,prisma,git,github,vscode,docker,aws&perline=10" alt="tech stack"/>
 </div>
